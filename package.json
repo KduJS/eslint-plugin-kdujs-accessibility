@@ -35,7 +35,7 @@
     "@types/eslint-scope": "^3.7.0",
     "@types/eslint-visitor-keys": "^1.0.0",
     "@types/jest": "^27.0.0",
-    "@types/node": "^16.10.9",
+    "@types/node": "^18.15.2",
     "@typescript-eslint/eslint-plugin": "^5.0.0",
     "@typescript-eslint/parser": "^5.0.0",
     "eslint": "^8.0.0",
